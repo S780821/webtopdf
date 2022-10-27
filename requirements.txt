@@ -1,4 +1,4 @@
 pyrogram
 tgcrypto
-pyppdf 0.1.2
+pyppdf==0.1.2
 pyppeteer
