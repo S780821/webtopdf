@@ -1,4 +1,4 @@
 pyrogram
 tgcrypto
-https://github.com/samadii/pyppdf/archive/master.zip
+pyppdf 0.1.2
 pyppeteer
